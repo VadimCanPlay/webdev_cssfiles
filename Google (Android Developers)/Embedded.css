@@ -1,0 +1,49 @@
+
+/* Styles inlined from /assets/css/download-terms-dialog.css */
+/* Required for en/dynamic_shared/___download_terms_dialog.html */
+.dac-download-dialog {
+  width: 80%;
+}
+
+.sdk-terms {
+  border-bottom: 1px solid #dadce0;
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+}
+
+.dac-download-dialog .buttons {
+  margin: 24px 0 0;
+}
+
+.dac-download-dialog .buttons .button {
+  margin: 0;
+}
+
+.dac-download-dialog .agreebox:not(:checked) ~ .buttons .button {
+  display: none;
+}
+
+.dac-download-dialog .agreebox:not(:checked) ~ .buttons .button-disabled,
+.dac-download-dialog .agreebox:checked ~ .buttons .button {
+  display: inline-block;
+}
+
+.dac-download-dialog .agreebox:checked ~ .buttons .button-disabled {
+  display: none;
+}
+
+.dac-download-dialog .multiple-download-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.dac-download-dialog .multiple-download-options {
+  display: flex;
+}
+
+.dac-download-dialog .multiple-download-option {
+  margin: 12px;
+  text-align: center;
+}
+
