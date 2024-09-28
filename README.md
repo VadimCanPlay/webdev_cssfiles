@@ -6,5 +6,4 @@ By the way, just so you know, im doing all of this manually: making folders, fil
 Added Google (Android Developers) stylesheets
 
 Added README.md
-
 Added Google (About) stylesheets
