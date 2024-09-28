@@ -8,3 +8,5 @@ Added Google (Android Developers) stylesheets
 Added README.md
 <br>
 Added Google (About) stylesheets
+<br>
+Added Google (ChatGPT) stylesheets
