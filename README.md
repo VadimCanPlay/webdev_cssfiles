@@ -10,3 +10,5 @@ Added README.md
 Added Google (About) stylesheets
 <br>
 Added Google (ChatGPT) stylesheets
+<br>
+Added ChatGPT stylesheets
